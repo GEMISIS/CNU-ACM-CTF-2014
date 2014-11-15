@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="990"
+   height="765"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="orange logo.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="33.153998"
+     inkscape:cy="423.12873"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     width="11in"
+     inkscape:window-width="1280"
+     inkscape:window-height="737"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-287.35975)">
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       x="173.74625"
+       y="415.48721"
+       id="text3842"
+       sodipodi:linespacing="125%"
+       transform="translate(0,287.35975)"><tspan
+         sodipodi:role="line"
+         id="tspan3844"
+         x="173.74625"
+         y="415.48721"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Harrington;-inkscape-font-specification:Harrington" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica Neue;-inkscape-font-specification:Helvetica Neue Ultra-Light"
+       x="246.47722"
+       y="854.36981"
+       id="text2999"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3001"
+         x="246.47722"
+         y="854.36981"
+         style="fill:#bdbdbd;fill-opacity:1">Orange</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#9b9b9b;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path3771"
+       sodipodi:cx="395.9798"
+       sodipodi:cy="286.18768"
+       sodipodi:rx="159.6041"
+       sodipodi:ry="159.6041"
+       d="m 555.58389,286.18768 a 159.6041,159.6041 0 1 1 -319.20819,0 159.6041,159.6041 0 1 1 319.20819,0 z"
+       transform="matrix(1.0759494,0,0,1,34.575347,277.25823)"
+       inkscape:export-filename="C:\Users\GEMISIS\Documents\ACM CTF 2014\orange.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path3773"
+       sodipodi:cx="537.40112"
+       sodipodi:cy="237.70038"
+       sodipodi:rx="88.893425"
+       sodipodi:ry="88.893425"
+       d="m 626.29455,237.70038 a 88.893425,88.893425 0 1 1 -177.78685,0 88.893425,88.893425 0 1 1 177.78685,0 z"
+       transform="translate(68.690372,305.5425)"
+       inkscape:export-filename="C:\Users\GEMISIS\Documents\ACM CTF 2014\orange.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#9b9b9b;fill-opacity:1;stroke:none"
+       d="m 489.25634,383.07238 c 23.90406,-12.07988 76.72744,2.56453 76.72744,2.56453 0,0 -29.70765,61.38461 -53.86317,72.83054 -23.60871,11.18682 -74.77629,-10.80468 -74.77629,-10.80468 0,0 29.73224,-53.38187 51.91202,-64.59039 z"
+       id="path3775"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="acaca"
+       inkscape:export-filename="C:\Users\GEMISIS\Documents\ACM CTF 2014\orange.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#9b9b9b;fill-opacity:1;stroke:none"
+       d="m 428.95878,378.40875 c 26.64712,5.52208 69.04454,54.27488 69.04454,54.27488 0,0 -51.6117,34.13755 -78.23559,27.88452 -26.0212,-6.11149 -63.97624,-60.23798 -63.97624,-60.23798 0,0 48.44233,-27.04516 73.16729,-21.92142 z"
+       id="path3775-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="acaca"
+       inkscape:export-filename="C:\Users\GEMISIS\Documents\ACM CTF 2014\orange.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
